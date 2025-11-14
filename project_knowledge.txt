@@ -1,0 +1,69 @@
+TEAM NAME:
+Eco Velocity
+
+PROJECT NAME:
+Sand Dune Dash – Wooden Gyroscope Car
+
+PROJECT OVERVIEW:
+This project is part of the Sand Dune Dash Payload Challenge. The goal is to design a sustainable, recycled car that carries a 6.5 x 6.5 x 6.5 cm acrylic water cube down a 1.3 m ramp at about 30 degrees, with minimal water loss and the fastest possible time. The car must be gravity-powered only, built from allowed materials, and must respect size and safety constraints.
+
+COMPETITION CONSTRAINTS:
+- Ramp launch height: 1.3 m.
+- Ramp angle: about 30 degrees.
+- Track width: 50 cm.
+- Finish line: 80 cm from the bottom of the ramp.
+- Payload: 6.5 cm acrylic cube filled with water.
+- Maximum car size at start: 24 cm width, 30 cm length, 30 cm height.
+- The cube cannot be glued to the car or permanently built into the structure.
+- The payload must have at least 0.5 cm clearance from any walls around it.
+- Maximum wall height near the payload: 3 cm above the base of the car.
+- The car must be fully non-powered: only gravity, no batteries, no motors, no electronics.
+- No commercial model car kits or prefabricated chassis and wheel assemblies are allowed.
+
+OUR CAR – DIMENSIONS:
+Our car is approximately:
+- Length: 30 cm (at the upper limit of the allowed length).
+- Width: around 14 cm (well below the 24 cm maximum).
+- Height: about 10 cm (below the 30 cm maximum).
+These dimensions ensure that the car fits inside the required 24 x 30 x 30 cm bounding box.
+
+TEAM NAME:
+Eco Velocity
+
+MATERIALS USED:
+The car is built mainly from:
+- Wood: for the main chassis, inner gyroscope box, and structural frame.
+- Hot glue: to join wooden parts and secure components.
+- Metal rods: used as axles for the wheels.
+- Springs: used in the suspension system to absorb shocks.
+- Paper and cardboard: used for covering and aesthetic design on the top surfaces.
+- Sponge/foam blocks: mounted on the sides as outer protection and bumpers.
+- Plastic wheels with rubber-like treads: for grip on the ramp surface.
+All of these materials are allowed according to the project rules.
+
+PAYLOAD AREA AND CLEARANCE:
+In the middle of the car there is a rectangular cutout that holds the gyroscope mechanism and the inner box for the payload. The inner box is sized so that the 6.5 cm acrylic cube fits inside with a clearance of at least 0.5 cm to the walls on all sides. The walls around the payload region remain under 3 cm in height, respecting the maximum wall height requirement. The cube is carried by the car but is not glued to it.
+
+GYROSCOPE MECHANISM – HOW IT WORKS:
+The center of the car contains a smaller inner wooden box mounted inside a cutout in the main frame. On each side of this inner box, we placed screws or metal pins that act as pivot points. These pivots allow the inner box to rotate freely like a gyroscope or gimbal. When the car goes down the 30 degree ramp or passes over the bump, the chassis can tilt and move, but the inner box is free to rotate and tries to stay more level than the car. As a result, the water cube experiences less tilting and less sudden sloshing. This reduces the chance of water spilling.
+
+SUSPENSION AND STABILITY:
+We added springs in the suspension system to help absorb shocks from the ramp and especially from the speed bump near the bottom. The springs reduce the vertical acceleration transmitted to the payload. The wide stance of the car (around 14 cm) and the large wheels improve stability on the incline.
+
+PROTECTION FEATURES:
+Yellow sponge or foam blocks are placed around the upper sides of the car to act as soft bumpers. They protect the car from side impacts and help stabilize the car when it hits the bump. The decorative pom-poms on the front also act as soft micro-bumpers.
+
+DESIGN RATIONALE – WHY THIS DESIGN:
+We chose wood as the primary material because it offers a good balance between strength and weight. Wood is also easy to cut and shape, making it ideal for building a custom chassis. The gyroscope-style payload holder was created because the main goal is to prevent water from spilling. Letting the inner box rotate freely keeps the payload more level than the chassis itself. The foam bumpers and suspension springs help manage shocks and vibrations. All these features help the car maintain stability while moving quickly down the ramp.
+
+TESTING AND STRESS TESTS:
+We tested the car on inclined surfaces and simulated bumps. The gyroscope inner box reduced the tilt experienced by the payload, the springs absorbed shocks, and the foam prevented harsh impacts. The car successfully traveled down the slope during testing while keeping the payload stable with minimal water movement.
+
+MAIN CHALLENGES:
+Our biggest challenge was designing the gyroscope mechanism so it can rotate freely without getting stuck. We also had to balance weight, stability, and material strength while staying within the rules. Ensuring 0.5 cm clearance around the payload while keeping the inner box strong was also a challenge.
+
+HOW OUR DESIGN MEETS PROJECT GOALS:
+- Payload safety: Gyroscope mechanism + suspension + side foam produce stability and reduce water loss.
+- Speed: Large wheels and smooth rolling allow fast acceleration down the ramp.
+- Sustainability: Built from wood, recycled-like materials, and allowed fasteners.
+- All constraints met: Fits within dimensions, payload clearance achieved, no powered components, no prefabricated kits, and cube remains separate from structure.
