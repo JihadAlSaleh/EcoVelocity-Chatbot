@@ -1,6 +1,6 @@
 # Eco Velocity – Sand Dune Dash Chatbot
 ### American University of Sharjah  
-### NGN110 – Fundamentals of Engineering  
+### NGN110 – Introduction to Engineering and Computing 
 ### Fall 2025  
 
 This repository contains the official chatbot created by **Team Eco Velocity** for the **Sand Dune Dash: Payload Challenge**.  
